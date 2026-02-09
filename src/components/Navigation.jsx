@@ -28,7 +28,7 @@ export default function Navigation() {
     { name: "The Studio", path: "/about" },
     { name: "Work", path: "/port" },
     { name: "Journal", path: "/blog" },
-    { name: "Contact", path: "/contact" },
+    { name: "Contact", path: "/contactus" },
   ];
 
   return (

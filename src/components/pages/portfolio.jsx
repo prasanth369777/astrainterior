@@ -24,14 +24,14 @@ const works = [
     id: "03",
     title: "Aura Dining Hall",
     category: "Commercial",
-    image: "https://images.unsplash.com/photo-1617806118233-f8e187c42b9c?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=1200 ",
     size: "medium"
   },
   {
     id: "04",
     title: "Minimalist Loft 402",
     category: "Residential",
-    image: "https://images.unsplash.com/photo-1505691938895-1758d7eaa511?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&q=80&w=800",
     size: "medium"
   },
   {
